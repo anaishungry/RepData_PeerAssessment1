@@ -1,4 +1,4 @@
-Reproducible Research: Peer Assessment 1
+Reproducible Research: Step counter analysis
 ========================================================
 
 #####1. Read file & attach it
